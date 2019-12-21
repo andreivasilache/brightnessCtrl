@@ -1,0 +1,55 @@
+﻿  Brightness_ctrl.cpp
+C:\Users\vasil\Desktop\Programming\Code\c++\Brightness_ctrl\Brightness_ctrl\Brightness_ctrl.cpp(107,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vasil\Desktop\Programming\Code\c++\Brightness_ctrl\Brightness_ctrl\Brightness_ctrl.cpp(110,84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vasil\Desktop\Programming\Code\c++\Brightness_ctrl\Brightness_ctrl\Brightness_ctrl.cpp(110,21): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Brightness_ctrl.vcxproj -> C:\Users\vasil\Desktop\Programming\Code\c++\Brightness_ctrl\x64\Debug\Brightness_ctrl.exe
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\base.hpp(384): warning C26812: The enum type 'cv::NormTypes' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.hpp(66): warning C26812: The enum type 'cv::AccessFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.hpp(262): warning C26812: The enum type 'cv::debug_build_guard::_InputArray::KindFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.hpp(569): warning C26812: The enum type 'cv::UMatData::MemoryFlag' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(550): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(579): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(1380): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(1405): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(1513): warning C26495: Variable 'cv::MatStep::buf' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(1519): warning C26495: Variable 'cv::MatStep::buf' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(2185): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(3588): warning C26812: The enum type 'cv::UMatUsageFlags' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(3875): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\mat.inl.hpp(3899): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\operations.hpp(435): warning C26812: The enum type 'cv::Formatter::FormatType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\utility.hpp(564): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\async.hpp(73): warning C26439: This kind of function may not throw. Declare it 'noexcept' (f.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\dnn\dnn.inl.hpp(249): warning C26495: Variable 'cv::dnn::dnn4_v20190621::DictValue::<unnamed-tag>::ps' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\matrix.h(95): warning C26495: Variable 'cvflann::UntypedMatrix::type' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\saving.h(49): warning C26812: The enum type 'cvflann::flann_datatype_t' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\kdtree_index.h(57): warning C26812: The enum type 'cvflann::flann_algorithm_t' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\kmeans_index.h(57): warning C26812: The enum type 'cvflann::flann_centers_init_t' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\lsh_table.h(357): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\lsh_table.h(358): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\lsh_table.h(94): warning C26495: Variable 'cvflann::lsh::LshStats::n_buckets_' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\imgproc.hpp(4729): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\imgproc.hpp(4746): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\objdetect.hpp(127): warning C26451: Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\objdetect.hpp(387): warning C26812: The enum type 'cv::HOGDescriptor::HistogramNormType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\objdetect\detection_based_tracker.hpp(150): warning C26812: The enum type 'cv::DetectionBasedTracker::ObjectStatus' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\cuda.inl.hpp(301): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\cuda.inl.hpp(385): warning C26812: The enum type 'cv::cuda::HostMem::AllocType' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\cuda.inl.hpp(482): warning C26451: Arithmetic overflow: Using operator '*' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '*' to avoid overflow (io.2).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\cuda.inl.hpp(605): warning C26812: The enum type 'cv::cuda::FeatureSet' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\warpers.hpp(169): warning C26495: Variable 'cv::detail::RotationWarperBase<cv::detail::CompressedRectilinearProjector>::projector_' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\stitching\detail\seam_finders.hpp(128): warning C26812: The enum type 'cv::detail::DpSeamFinder::CostFunction' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\stitching.hpp(201): warning C26812: The enum type 'cv::InterpolationFlags' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\stitching.hpp(204): warning C26812: The enum type 'cv::detail::WaveCorrectKind' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\lsh_table.h(277): warning C26812: The enum type 'cvflann::lsh::LshTable<unsigned char>::SpeedLevel' is unscoped. Prefer 'enum class' over 'enum' (Enum.3).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\flann\any.h(95): warning C6269: Possibly incorrect order of operations:  dereference ignored.
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(850): warning C26495: Variable 'cv::Matx<double,4,1>::val' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\utility.hpp(985): warning C26495: Variable 'cv::AutoBuffer<__int64,1>::ptr' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(662): warning C26495: Variable 'cv::Matx<float,3,1>::val' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(561): warning C6294: Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(561): warning C6201: Index '3' is out of valid index range '0' to '2' for possibly stack allocated buffer 'this->val'.
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(536): warning C26495: Variable 'cv::Matx<float,3,1>::val' is uninitialized. Always initialize a member variable (type.6).
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(553): warning C6294: Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(553): warning C6201: Index '2' is out of valid index range '0' to '1' for possibly stack allocated buffer 'this->val'.
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(569): warning C6294: Ill-defined for-loop:  initial condition does not satisfy test.  Loop body not executed.
+C:\DEV\vcpkg\installed\x64-windows\include\opencv2\core\matx.hpp(569): warning C6201: Index '4' is out of valid index range '0' to '3' for possibly stack allocated buffer 'this->val'.
